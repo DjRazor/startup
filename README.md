@@ -1,4 +1,7 @@
 # Startup
+
+## Elevator Pitch
+
 ### Authentication
 
 ### Database Data
