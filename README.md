@@ -8,6 +8,7 @@ For my startup (Trackinator), I want to create the ultimate scheduling calendar 
 - Share with friends
 - Reminder emails/messages
 
+## Uses of Technology
 ### Authentication
 Users will create an account that will save their calendars and notes.
 
